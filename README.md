@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I like using generative models to extract information in Bayesian inference problems on fundamental physics in cosmology.
 
 I'm interested in generative models...
@@ -16,4 +15,3 @@ I'm interested in generative models...
 ...and statistical problems in general
 * [Frequentist-matching priors](https://github.com/homerjed/frequentist_matching_priors)
 * [Hierarchical Bayesian Neural Networks (HBNNs)](https://github.com/homerjed/hbnn)
--->
