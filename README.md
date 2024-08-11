@@ -1,16 +1,19 @@
 ## Hi there 👋
 
 <!--
-**homerjed/homerjed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like using generative models to extract information in Bayesian inference problems on fundamental physics in cosmology.
 
-Here are some ideas to get you started:
+I'm interested in generative models...
+* [Score-based diffusion models](https://github.com/homerjed/sgm)
+* [Variational Diffusion models (VDMs)](https://github.com/homerjed/vdm)
+* [Variational Diffusion Autoencoder (VDAE)](https://github.com/homerjed/vdae)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+...transformer models & geometric deep learning in general
+* [Set Transformer](https://github.com/homerjed/set_transformer)
+* [Compact Convolutional Transformers](https://github.com/schmrlng/cct)
+* [Vision transformers](https://github.com/homerjed/simple_vision_transformer)
+
+...and statistical problems in general
+* [Frequentist-matching priors](https://github.com/homerjed/frequentist_matching_priors)
+* [Hierarchical Bayesian Neural Networks (HBNNs)](https://github.com/homerjed/hbnn)
 -->
