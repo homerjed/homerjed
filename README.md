@@ -6,7 +6,7 @@ Right now i'm working on
 * a simulation-based inference (SBI) package in `jax`,
 * field-level inference pipelines using generative models.
 
-:I'm interested in generative models...
+I'm interested in generative models...
 * [Score-based diffusion models](https://github.com/homerjed/sgm),
 * [Variational Diffusion models (VDMs)](https://github.com/homerjed/vdm),
 * [Variational Diffusion Autoencoder (VDAE)](https://github.com/homerjed/vdae).
