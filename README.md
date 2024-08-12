@@ -11,7 +11,7 @@ I'm interested in generative models...
 * [Variational Diffusion models (VDMs)](https://github.com/homerjed/vdm),
 * [Variational Diffusion Autoencoder (VDAE)](https://github.com/homerjed/vdae).
 
-...transformer models & geometric deep learning in general
+...transformer models & geometric deep learning in general...
 * [Set Transformer](https://github.com/homerjed/set_transformer),
 * [Compact Convolutional Transformers](https://github.com/schmrlng/cct),
 * [Vision transformers](https://github.com/homerjed/simple_vision_transformer).
