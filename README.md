@@ -9,7 +9,7 @@ Right now i'm working on
 I'm interested in generative models...
 * [Score-based diffusion models](https://github.com/homerjed/sgm),
 * [Variational Diffusion models (VDMs)](https://github.com/homerjed/vdm),
-* [Variational Diffusion Autoencoder (VDAE)](https://github.com/homerjed/vdae).
+* [Variational Diffusion Autoencoders (VDAEs)](https://github.com/homerjed/vdae).
 
 ...transformer models & geometric deep learning in general...
 * [Set Transformer](https://github.com/homerjed/set_transformer),
