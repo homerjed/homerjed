@@ -20,7 +20,7 @@ I'm interested in generative models...
 * [Frequentist-matching priors](https://github.com/homerjed/frequentist_matching_priors),
 * [Hierarchical Bayesian Neural Networks (HBNNs)](https://github.com/homerjed/hbnn).
 
-I also teach MSc Physics students in the Physik x AI labs at LMU Physik where I write teaching material that delivers machine learning insights derived from problems in physics. 
+I also teach MSc Physics students in the Physik x AI labs at LMU Physik where I write teaching material that delivers machine learning insights from problems in physics. 
 
 My goal is to show students cutting edge algorithms and statistical methods that they will not learn anywhere else.
 
