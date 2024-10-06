@@ -8,7 +8,7 @@
 <picture>
   <source srcset="[diffusion_night](https://github.com/user-attachments/assets/7a41ea06-a46d-4990-a07d-027682c24fb9)" media="(prefers-color-scheme: dark)">
   <source srcset="[diffusion_night](https://github.com/user-attachments/assets/37f7c8f1-9883-4d4e-8732-4105e2e3c969)" media="(prefers-color-scheme: light)">
-  <img src="https://github.com/user-attachments/assets/37efcfc2-2995-4d2f-940f-be841a86a580" alt="Your image description">
+  <img src="https://github.com/user-attachments/assets/7a41ea06-a46d-4990-a07d-027682c24fb9" alt="Your image description">
 </picture>
 
 I like using generative models in Bayesian inference problems to extract information on fundamental physics in cosmology.
