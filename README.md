@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![diffusion_dark](https://github.com/user-attachments/assets/37efcfc2-2995-4d2f-940f-be841a86a580)
+
 I like using generative models to extract information in Bayesian inference problems on fundamental physics in cosmology.
 
 Right now i'm working on
