@@ -5,7 +5,7 @@
 
 <picture>
   <source srcset="[dark-mode-image.png](https://github.com/user-attachments/assets/7a41ea06-a46d-4990-a07d-027682c24fb9)" media="(prefers-color-scheme: dark)">
-  <source srcset="light-mode-image.png" media="(prefers-color-scheme: light)">
+  <source srcset="[light-mode-image.png](https://github.com/user-attachments/assets/37efcfc2-2995-4d2f-940f-be841a86a580)" media="(prefers-color-scheme: light)">
   <img src="https://github.com/user-attachments/assets/37efcfc2-2995-4d2f-940f-be841a86a580" alt="Your image description">
 </picture>
 
