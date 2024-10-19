@@ -14,11 +14,11 @@
 I like using generative models in Bayesian inference problems to extract information on fundamental physics in cosmology.
 
 Right now i'm working on
-* a simulation-based inference (SBI) package in `jax`,
+* a [simulation-based inference (SBI) package in `jax`](https://github.com/homerjed/sbiax),
 * field-level inference pipelines using generative models.
 
 I'm interested in generative models...
-* [Score-based diffusion models](https://github.com/homerjed/sgm),
+* [Score-based diffusion models](https://github.com/homerjed/sbgm),
 * [Variational Diffusion models (VDMs)](https://github.com/homerjed/vdm),
 * [Variational Diffusion Autoencoders (VDAEs)](https://github.com/homerjed/vdae).
 
