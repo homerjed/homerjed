@@ -24,7 +24,7 @@ I'm interested in generative models...
 
 ...transformer models & geometric deep learning...
 * [Set Transformers](https://github.com/homerjed/set_transformer),
-* [Compact Convolutional Transformers](https://github.com/schmrlng/cct),
+* [Compact Convolutional Transformers](https://github.com/homerjed/cct),
 * [Vision transformers](https://github.com/homerjed/simple_vision_transformer).
 
 ...and statistical problems in general
