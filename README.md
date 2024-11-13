@@ -5,6 +5,8 @@
 <!--![![diffusion_dark](https://github.com/user-attachments/assets/c732051a-1b2c-484e-94c6-bade90506a7a)-->
 <!--![diffusion_night](https://github.com/user-attachments/assets/37f7c8f1-9883-4d4e-8732-4105e2e3c969)-->
 
+![example_animation_multiple_](https://github.com/user-attachments/assets/6259eb45-0d51-406e-880e-f6f2adf4d8bf)
+
 <picture>
   <source srcset="https://github.com/user-attachments/assets/7a41ea06-a46d-4990-a07d-027682c24fb9" media="(prefers-color-scheme: dark)">
   <source srcset="https://github.com/user-attachments/assets/37efcfc2-2995-4d2f-940f-be841a86a580" media="(prefers-color-scheme: light)">
