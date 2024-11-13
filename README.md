@@ -20,7 +20,9 @@
   <img src="https://github.com/user-attachments/assets/7a41ea06-a46d-4990-a07d-027682c24fb9" alt="Your image description">
 </picture>
 
-<p align="center"><em>The diffusion process showing both the stochastic and deterministic paths.</em></p>
+<p align="center"><em>The diffusion process showing both the stochastic and deterministic paths through the marginal distributions of the diffusion process for a set of datapoints.</em></p>
+
+## What do I do?
 
 I like using generative models in Bayesian inference problems to extract information on fundamental physics in cosmology.
 
