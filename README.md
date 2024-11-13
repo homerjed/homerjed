@@ -7,11 +7,9 @@
 <!--![example_animation_multiple](https://github.com/user-attachments/assets/f3b5995e-4eeb-4b2f-bc7a-8921903ada90)-->
 
 <p align="center">
-  <figure>
-    <picture>
-      <img src="https://github.com/user-attachments/assets/f3b5995e-4eeb-4b2f-bc7a-8921903ada90" alt="Your image description">
-    </picture>
-  </figure>
+  <picture>
+    <img src="https://github.com/user-attachments/assets/f3b5995e-4eeb-4b2f-bc7a-8921903ada90" alt="Your image description">
+  </picture>
 </p>
 
 <p align="center"><em>Generating mock matter density fields conditioned on primordial density fields with flow matching.</em></p>
@@ -21,6 +19,8 @@
   <source srcset="https://github.com/user-attachments/assets/37efcfc2-2995-4d2f-940f-be841a86a580" media="(prefers-color-scheme: light)">
   <img src="https://github.com/user-attachments/assets/7a41ea06-a46d-4990-a07d-027682c24fb9" alt="Your image description">
 </picture>
+
+<p align="center"><em>The diffusion process showing both the stochastic and deterministic paths.</em></p>
 
 I like using generative models in Bayesian inference problems to extract information on fundamental physics in cosmology.
 
