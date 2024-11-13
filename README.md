@@ -6,6 +6,19 @@
 <!--![diffusion_night](https://github.com/user-attachments/assets/37f7c8f1-9883-4d4e-8732-4105e2e3c969)-->
 <!--![example_animation_multiple](https://github.com/user-attachments/assets/f3b5995e-4eeb-4b2f-bc7a-8921903ada90)-->
 
+<style>
+  figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  figcaption {
+    margin-top: 8px; /* Optional: Adds space between image and caption */
+    font-style: italic; /* Optional: Styles the caption text */
+  }
+</style>
+
 <p align="center">
   <figure>
     <picture>
