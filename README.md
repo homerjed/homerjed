@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a PhD student working at the intersection of machine learning and cosmology at the [Observatory](https://www.physik.lmu.de/observatory/de/) of [LMU](https://www.lmu.de/de/index.html) and the [Munich Center for Machine Learning](https://mcml.ai/).
+
 <!-- ![diffusion_dark]([https://github.com/user-attachments/assets/37efcfc2-2995-4d2f-940f-be841a86a580](https://github.com/user-attachments/assets/7a41ea06-a46d-4990-a07d-027682c24fb9)) -->
 <!--![diffusion_night](https://github.com/user-attachments/assets/7a41ea06-a46d-4990-a07d-027682c24fb9)-->
 <!--![![diffusion_dark](https://github.com/user-attachments/assets/c732051a-1b2c-484e-94c6-bade90506a7a)--> 
