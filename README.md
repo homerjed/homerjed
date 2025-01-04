@@ -30,7 +30,7 @@ I like using generative models in Bayesian inference problems to extract informa
 
 Right now i'm working on
 * a [simulation-based inference (SBI) package in `jax`](https://github.com/homerjed/sbiax),
-* baryonification with generative models with physically motivated latent spaces,
+* baryonification using generative models with physically motivated latent spaces,
 * field-level inference pipelines using generative models.
 
 I'm interested in generative models...
