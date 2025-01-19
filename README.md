@@ -35,6 +35,7 @@ Right now i'm working on
 
 I'm interested in generative models...
 * [Score-based diffusion models](https://github.com/homerjed/sbgm),
+* [Transformer Flows](https://github.com/homerjed/transformer_flow),
 * [Variational Diffusion models (VDMs)](https://github.com/homerjed/vdm),
 * [Variational Diffusion Autoencoders (VDAEs)](https://github.com/homerjed/vdae).
 
