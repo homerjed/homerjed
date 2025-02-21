@@ -7,15 +7,13 @@ I'm a PhD student working at the intersection of machine learning and cosmology,
 <!--![![diffusion_dark](https://github.com/user-attachments/assets/c732051a-1b2c-484e-94c6-bade90506a7a)--> 
 <!--![diffusion_night](https://github.com/user-attachments/assets/37f7c8f1-9883-4d4e-8732-4105e2e3c969)-->
 <!--![example_animation_multiple](https://github.com/user-attachments/assets/f3b5995e-4eeb-4b2f-bc7a-8921903ada90)-->
-![ezgif com-optimize(1)](https://github.com/user-attachments/assets/a749bd4d-67da-412d-8ca4-3123b6dbd845)
-
 <p align="center">
   <picture>
     <img src="https://github.com/user-attachments/assets/a749bd4d-67da-412d-8ca4-3123b6dbd845" alt="Your image description">
   </picture>
 </p>
 
-<p align="center"><em>Generating mock matter density fields conditioned on primordial density fields with flow matching.</em></p>
+<p align="center"><em>Generating matter density fields with baryons conditioned on dark matter density fields with flow matching.</em></p>
 
 <picture>
   <source srcset="https://github.com/user-attachments/assets/7a41ea06-a46d-4990-a07d-027682c24fb9" media="(prefers-color-scheme: dark)">
