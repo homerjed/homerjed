@@ -46,6 +46,7 @@ I'm interested in generative models...
 ...and statistical problems in general
 * [Frequentist-matching priors](https://github.com/homerjed/frequentist_matching_priors),
 * [Information-maximising neural networks](https://github.com/homerjed/imnn),
+* [Extreme data compression while searching for new physics](https://github.com/homerjed/extended_physics_compression),
 * [Hierarchical Bayesian Neural Networks (HBNNs)](https://github.com/homerjed/hbnn).
 
 I also teach MSc Physics students in the [Physik x AI](https://www.physik.lmu.de/en/studies/study-programs/ai-in-physics.html) labs at LMU Physik where I write teaching material that delivers machine learning insights from problems in physics. 
