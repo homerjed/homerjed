@@ -38,14 +38,14 @@ I'm interested in generative models...
 * [Transformer Flows](https://github.com/homerjed/transformer_flow),
 * [Flow Matching](https://github.com/homerjed/rectified_flows),
 * [Variational Diffusion models (VDMs)](https://github.com/homerjed/vdm),
-* [Variational Diffusion Autoencoders (VDAEs)](https://github.com/homerjed/vdae).
+* [Variational Diffusion Autoencoders (VDAEs)](https://github.com/homerjed/vdae),
 
 ...transformer models & geometric deep learning...
 * [Set Transformers](https://github.com/homerjed/set_transformer),
 * [Compact Convolutional Transformers](https://github.com/homerjed/cct),
-* [Vision transformers](https://github.com/homerjed/simple_vision_transformer).
+* [Vision transformers](https://github.com/homerjed/simple_vision_transformer),
 
-...and statistical problems in general
+...and statistical problems in general...
 * [Frequentist-matching priors](https://github.com/homerjed/frequentist_matching_priors),
 * [Information-maximising neural networks](https://github.com/homerjed/imnn),
 * [Extreme data compression while searching for new physics](https://github.com/homerjed/extended_physics_compression),
